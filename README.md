@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
-Use JS
-Game rock, paper, scissors
+##### Use JS
+####### Game rock, paper, scissors
