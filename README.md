@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
-##### Use JS
+##### Codecademy Project
 ###### Game rock, paper, scissors
